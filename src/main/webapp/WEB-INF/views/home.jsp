@@ -42,7 +42,7 @@
     		<table class="table table-striped table-hover table-hover shadow-sm rounded-lg overflow-hidden">
 	        	<thead class="thead-dark">
 	        	<tr>
-	        	<th scope="col">ID</th>
+	        	<th scope="col"></th>
 	        	<th scope="col">UserName</th>
 	        	<th scope="col">Nom</th>
 	        	<th scope="col">Llinatge1</th>
